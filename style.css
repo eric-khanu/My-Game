@@ -89,17 +89,17 @@
 }
 
 p {
-  color: rgb(2, 43, 43);
+  color: rgb(21, 2, 71);
 }
 
 .score {
   font-size: 60px;
-  color: rgb(112, 26, 4);
+  color: rgb(18, 78, 3);
 }
 
 .highscore {
   font-size: 60px;
-  color: rgb(104, 4, 4);
+  color: rgb(87, 37, 3);
 }
 
 .play:hover {
